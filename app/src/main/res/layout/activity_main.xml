@@ -7,7 +7,7 @@
     android:background="#2a363f"
     app:layout_behavior="@string/appbar_scrolling_view_behavior">
 
-    <EditText 
+    <EditText
         android:id="@+id/editText"
         android:layout_width="259dp"
         android:layout_height="52dp"
